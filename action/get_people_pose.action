@@ -1,0 +1,12 @@
+#goal definition
+float32 angle_max
+float32 angle_min
+float32 distance_max
+int32 duration
+int32 pan_vel
+---
+#result definition
+
+---
+#feedback
+
